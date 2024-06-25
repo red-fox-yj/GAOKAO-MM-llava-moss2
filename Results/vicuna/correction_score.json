@@ -1,0 +1,104 @@
+{
+    "model_name": "vicuna",
+    "correct_question_num": 104.5,
+    "question_num": 646,
+    "accuracy": 0.162,
+    "subject": {
+        "Math": {
+            "correct_question_num": 12.0,
+            "accuracy": 0.15,
+            "question_num": 80,
+            "type": {
+                "2010-2023_Math_MCQs": {
+                    "correct_question_num": 12.0,
+                    "question_num": 80,
+                    "accuracy": 0.15
+                }
+            }
+        },
+        "Chinese": {
+            "correct_question_num": 1.0,
+            "accuracy": 0.062,
+            "question_num": 16,
+            "type": {
+                "2010-2023_Chinese_Pratical_Lit": {
+                    "correct_question_num": 1.0,
+                    "question_num": 16,
+                    "accuracy": 0.062
+                }
+            }
+        },
+        "Physics": {
+            "correct_question_num": 6.5,
+            "accuracy": 0.037,
+            "question_num": 174,
+            "type": {
+                "2010-2023_Physics_MCQs": {
+                    "correct_question_num": 6.5,
+                    "question_num": 174,
+                    "accuracy": 0.037
+                }
+            }
+        },
+        "Chemistry": {
+            "correct_question_num": 14.0,
+            "accuracy": 0.209,
+            "question_num": 67,
+            "type": {
+                "2010-2023_Chemistry_MCQs": {
+                    "correct_question_num": 14.0,
+                    "question_num": 67,
+                    "accuracy": 0.209
+                }
+            }
+        },
+        "Biology": {
+            "correct_question_num": 4.0,
+            "accuracy": 0.19,
+            "question_num": 21,
+            "type": {
+                "2010-2023_Biology_MCQs": {
+                    "correct_question_num": 4.0,
+                    "question_num": 21,
+                    "accuracy": 0.19
+                }
+            }
+        },
+        "History": {
+            "correct_question_num": 6.0,
+            "accuracy": 0.176,
+            "question_num": 34,
+            "type": {
+                "2010-2023_History_MCQs": {
+                    "correct_question_num": 6.0,
+                    "question_num": 34,
+                    "accuracy": 0.176
+                }
+            }
+        },
+        "Geography": {
+            "correct_question_num": 54.0,
+            "accuracy": 0.244,
+            "question_num": 221,
+            "type": {
+                "2010-2023_Geography_MCQs": {
+                    "correct_question_num": 54.0,
+                    "question_num": 221,
+                    "accuracy": 0.244
+                }
+            }
+        },
+        "Politics": {
+            "correct_question_num": 7.0,
+            "accuracy": 0.212,
+            "question_num": 33,
+            "type": {
+                "2010-2023_Political_Science_MCQs": {
+                    "correct_question_num": 7.0,
+                    "question_num": 33,
+                    "accuracy": 0.212
+                }
+            }
+        }
+    }
+}
